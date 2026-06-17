@@ -2,7 +2,7 @@
 Python Internship Tasks completed at Alfido Tech
 # Alfido Tech Python Internship
 
-This repository contains the tasks completed during my Python Internship at Alfido Tech.
+This repository contains the tasks completed during my Python Internship at Alfido Tech
 
 ## Task 1 - Python File Handling & Automation
 - Read and write text files
